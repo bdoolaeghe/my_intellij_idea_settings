@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cq</mask>
+      <mask>*.cql</mask>
+      <mask>ù.cql</mask>
+      <mask>ùM.cql</mask>
+      <mask>ùMo.cql</mask>
+      <mask>ùMod.cql</mask>
+      <mask>ùMode.cql</mask>
+      <mask>ùModel.cql</mask>
+      <mask>ùModel.cq</mask>
+      <mask>ùModel.c</mask>
+      <mask>ùModel.</mask>
+      <mask>ùModel.j</mask>
+      <mask>ùModel.java</mask>
+      <mask>Model.java</mask>
+      <mask>*Model.java</mask>
+      <mask>*.*</mask>
+      <mask>p</mask>
+      <mask>pr</mask>
+      <mask>pro</mask>
+      <mask>prop</mask>
+      <mask>proper</mask>
+      <mask>propert</mask>
+      <mask>properti</mask>
+      <mask>propertie</mask>
+      <mask>properties</mask>
+      <mask>*.properties</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

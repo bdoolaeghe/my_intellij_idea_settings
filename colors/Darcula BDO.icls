@@ -1,0 +1,21 @@
+<scheme name="Darcula BDO" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2016-10-06T18:03:38</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2016.2.4.0.0</property>
+    <property name="modified">2016-10-06T18:03:55</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0500001" />
+  <option name="EDITOR_FONT_SIZE" value="23" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+<colors>
+  <option name="SELECTED_TEARLINE_COLOR" value="0"/>
+  <option name="SELECTION_BACKGROUND" value="30a43"/>
+  <option name="SELECTION_FOREGROUND" value="bdc6cc"/>
+  <option name="TEARLINE_COLOR" value="121212"/>
+</colors>
+
+</scheme>

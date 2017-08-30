@@ -1,0 +1,50 @@
+<scheme name="Darcula BDO" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0500001" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="23" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <colors>
+    <option name="SELECTION_BACKGROUND" value="a1428" />
+  </colors>
+  <attributes>
+    <option name="BAD_CHARACTER">
+      <value>
+        <option name="BACKGROUND" value="41010d" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="4c312b" />
+        <option name="ERROR_STRIPE_COLOR" value="8c5540" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="494b4b" />
+        <option name="ERROR_STRIPE_COLOR" value="acbbc9" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="2e4d3d" />
+        <option name="ERROR_STRIPE_COLOR" value="4c7a5a" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="434f0b" />
+        <option name="ERROR_STRIPE_COLOR" value="567db1" />
+      </value>
+    </option>
+    <option name="EXECUTIONPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e1f30" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

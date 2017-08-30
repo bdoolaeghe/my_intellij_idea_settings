@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.happn.common.test.Assert.assertResponseWraps(message,expectedWrappedObject,actualWrappingResponse)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
